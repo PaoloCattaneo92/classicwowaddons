@@ -1,0 +1,7 @@
+## Interface: 11302
+## Author: juju
+## Version: 0.1
+## Title: Corduroy
+## Notes: Shows coordinates of the cursor location on World Map
+## SavedVariables: Corduroy
+Corduroy.xml

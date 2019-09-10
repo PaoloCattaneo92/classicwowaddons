@@ -1,0 +1,25 @@
+lightweight tag b85ccc2fb93833709939b8ce69fc07e2dd676673 8.2.0.7
+Author:	Luxocracy <luxor355@gmail.com>
+Date:	Fri Sep 6 22:58:06 2019 +0200
+
+commit b85ccc2fb93833709939b8ce69fc07e2dd676673
+Author: Luxocracy <luxor355@gmail.com>
+Date:   Fri Sep 6 22:58:06 2019 +0200
+
+    Update NeatPlates.toc
+
+commit cb3e27cfa958012ccbb0c946d8efeb49eff76b61
+Author: Luxocracy <luxor355@gmail.com>
+Date:   Fri Sep 6 22:53:50 2019 +0200
+
+    Additions & Bug Fixes
+    
+    - Added several new options
+      - Display 'All Auras'
+      - Party Reaction Color
+      - Exclude Totem nameplates
+      - Exclude Minion nameplates
+    - Fixed a bug with level and status text not scaling along side the frame width
+    - Fixed an error that would occur with threat on party members
+    - Fixed Guild member reaction color
+
